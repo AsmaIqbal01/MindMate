@@ -1,5 +1,3 @@
-chainlit>=1.0.0
-crewai>=0.27.8
-pypdf2>=3.0.1
-openai>=1.11.0
-python-dotenv>=1.0.1
+chainlit
+openai
+PyPDF2
